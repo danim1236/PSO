@@ -1,0 +1,4 @@
+C:\Users\danim\workspace\PSO\ParticleSwarm.FunctionMinimizing\obj\Debug\ParticleSwarm.FunctionMinimizing.csprojResolveAssemblyReference.cache
+C:\Users\danim\workspace\PSO\ParticleSwarm.FunctionMinimizing\obj\Debug\ParticleSwarmDemo.FunctionMinimizing.Form1.resources
+C:\Users\danim\workspace\PSO\ParticleSwarm.FunctionMinimizing\obj\Debug\ParticleSwarm.FunctionMinimizing.Properties.Resources.resources
+C:\Users\danim\workspace\PSO\ParticleSwarm.FunctionMinimizing\obj\Debug\ParticleSwarm.FunctionMinimizing.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.csprojResolveAssemblyReference.cache
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.Form1.resources
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.Properties.Resources.resources
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.csproj.GenerateResource.Cache
+C:\Users\danim\workspace\PSO\PSO\bin\Debug\PSO.exe.config
+C:\Users\danim\workspace\PSO\PSO\bin\Debug\PSO.exe
+C:\Users\danim\workspace\PSO\PSO\bin\Debug\PSO.pdb
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.exe
+C:\Users\danim\workspace\PSO\PSO\obj\Debug\PSO.pdb

@@ -1,0 +1,6 @@
+C:\Users\danim\workspace\PSO\FirstPSOCS\bin\Debug\FirstPSOCS.exe.config
+C:\Users\danim\workspace\PSO\FirstPSOCS\bin\Debug\FirstPSOCS.exe
+C:\Users\danim\workspace\PSO\FirstPSOCS\bin\Debug\FirstPSOCS.pdb
+C:\Users\danim\workspace\PSO\FirstPSOCS\obj\Debug\FirstPSOCS.csprojResolveAssemblyReference.cache
+C:\Users\danim\workspace\PSO\FirstPSOCS\obj\Debug\FirstPSOCS.exe
+C:\Users\danim\workspace\PSO\FirstPSOCS\obj\Debug\FirstPSOCS.pdb
